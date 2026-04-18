@@ -34,10 +34,14 @@ export const Route = createRootRoute({
       { name: "description", content: "AgentLab is a private AI agent platform to create, manage, and test custom AI agents." },
       { name: "author", content: "AgentLab" },
       { property: "og:title", content: "AgentLab — Build & Test AI Agents" },
-      { property: "og:description", content: "Create, manage, and test custom AI agents in one premium workspace." },
+      { property: "og:description", content: "AgentLab is a private AI agent platform to create, manage, and test custom AI agents." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "AgentLab — Build & Test AI Agents" },
+      { name: "twitter:description", content: "AgentLab is a private AI agent platform to create, manage, and test custom AI agents." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/344717e5-4783-42fd-beaf-4fbae28ccc39/id-preview-fdad5a46--6a0d2ac1-095e-4884-9fae-49cf03566d39.lovable.app-1776547583255.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/344717e5-4783-42fd-beaf-4fbae28ccc39/id-preview-fdad5a46--6a0d2ac1-095e-4884-9fae-49cf03566d39.lovable.app-1776547583255.png" },
     ],
     links: [
       {
